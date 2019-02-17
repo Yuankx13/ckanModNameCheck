@@ -1,40 +1,9 @@
 {
-	"10km Omni Antenna for Kerbals on EVA for Remotetech":[
-		"Contract Pack: Kerbin Air Force",
-		"Contract Pack: RemoteTech",
-		"Flyby Finder for Real Solar System Mod",
-		"AIES Antennas Rebalance"
-	],
-	"2KAS-J0523 Planetary system":[
-		"Kerbal Planetary Base Systems"
-	],
 	"64K Overhaul":[
 		"64k Overhaul"
 	],
 	"6.4x scale 12.8x distance":[
 		"6.4x Size 12.8x Distance"
-	],
-	"The A6 Intruder":[
-		"The Dwarf Star",
-		"The Gold Standard",
-		"Who Am I",
-		"Time Control"
-	],
-	"A7 Corsair 2":[
-		"Arkas",
-		"KSPCasher",
-		"Astrogator",
-		"SM Marine",
-		"SCANsat",
-		"Corvus CF",
-		"K2 Command Pod",
-		"ReCoupler",
-		"SM Armory"
-	],
-	"aati-flags":[
-		"TrimPlus",
-		"Bacon Labs",
-		"PartTweaks"
 	],
 	"ABookCase Orbital Reference System":[
 		"ABookCase Orbital Reference System Updated"
@@ -45,97 +14,26 @@
 	"AB Launchers":[
 		"AB Launchers"
 	],
-	"Above the Sky - Soyuz TMA and R7":[
-		"Rover Wheel Sounds"
-	],
 	"KSP Achievements":[
 		"KSP Achievements"
 	],
 	"Action Group Manager Renewed":[
 		"Action Group Manager Continued"
 	],
-	"ActivateWhenShielded":[
-		"Activated Subassemblies"
-	],
-	"Active Ablation":[
-		"Auto Actions"
-	],
-	"CIT - ActiveStruts":[
-		"KSP Achievements",
-		"FullAutoStrut"
-	],
-	"Active Texture Management - X64 - Aggressive":[
-		"Active Heat Management System"
-	],
-	"Active Texture Management - X64 - Basic":[
-		"Active Heat Management System"
-	],
-	"Active Texture Management - X86 - Aggressive":[
-		"Active Heat Management System"
-	],
-	"Active Texture Management - X86 - Basic":[
-		"Active Heat Management System"
-	],
-	"Actions Everywhere":[
-		"WarpEverywhere"
-	],
-	"AdaptiveDockingNode":[
-		"Ablative-Airbrake"
-	],
 	"Additional Progression Contracts":[
 		"Additional Progression Contracts"
-	],
-	"ADIOS":[
-		"Arkas",
-		"DCK"
-	],
-	"Adjustable Landing Gear":[
-		"Adjustable Mod Panel"
 	],
 	"Adjustable Mod Panel":[
 		"Adjustable Mod Panel"
 	],
-	"Advanced Fly-By-Wire (Windows, x64)":[
-		"Advanced Jet Engine"
-	],
-	"AFBW Revived (Linux version)":[
-		"MFD Revived",
-		"Filter Extensions"
-	],
-	"ABFW Revived (OSX version)":[
-		"MFD Revived"
-	],
 	"Advanced Jet Engine":[
-		"Advanced Jet Engine"
-	],
-	"Advanced SAS For All":[
-		"Advanced Jet Engine"
-	],
-	"Advanced Textures":[
 		"Advanced Jet Engine"
 	],
 	"AeroGUI":[
 		"AeroGUI"
 	],
-	"Aerojet Kerbodyne":[
-		"Before Kerbin"
-	],
-	"Aerostats":[
-		"Arkas",
-		"KerbalStats",
-		"KerboKatz",
-		"AeroGUI",
-		"Versus"
-	],
 	"Action Groups Extended":[
 		"Action Groups ReExtended"
-	],
-	"AGroupOnStage":[
-		"SmartStage"
-	],
-	"AIES Aerospace":[
-		"B9 Aerospace",
-		"D12 Aerospace"
 	],
 	"Aircraft Carrier Accessories":[
 		"Aircraft Carrier Accessories"
@@ -143,65 +41,11 @@
 	"Airline Kuisine":[
 		"Airline Kuisine"
 	],
-	"Airlock":[
-		"Arkas",
-		"Firma",
-		"AeroGUI"
-	],
-	"AirlockPlus":[
-		"Airplane Plus"
-	],
-	"Tiktaalik's Airlock Collection":[
-		"Systemic Body Collection"
-	],
-	"AirPark":[
-		"Arkas",
-		"Firma"
-	],
 	"AirPark Continued":[
 		"AirPark Continued"
 	],
 	"Airplane Plus":[
 		"Airplane Plus"
-	],
-	"Air Tunnels":[
-		"Real Fuels",
-		"AB Launchers",
-		"Airplane Plus"
-	],
-	"AJE Extended":[
-		"ISRU Extended"
-	],
-	"ALCOR":[
-		"Arkas",
-		"DCK"
-	],
-	"ALCOR Advanced IVA":[
-		"Outer Planets Mod",
-		"ERU Planet Pack",
-		"Auto Actions",
-		"Landing Aid",
-		"ISRU Extended",
-		"Space Age",
-		"Who Am I",
-		"Kerbals 4 EVA",
-		"ASET Avionics Pack",
-		"HexCans Uncanned",
-		"Kermantech Mk3 IVA",
-		"MFD Revived",
-		"IR Sequencer",
-		"KSC++ Continued",
-		"Races!",
-		"AB Launchers",
-		"[x] Science!",
-		"Solar Science",
-		"K2 Command Pod",
-		"LLL Continued",
-		"Airplane Plus",
-		"InfiniteDice ICE",
-		"RLA Recontinued",
-		"SpaceY Expanded",
-		"STS - Avalon"
 	],
 	"Alcubierre Warp Drive (Stand-alone)":[
 		"Alcubierre Warp Drive"
@@ -209,22 +53,11 @@
 	"Alien Space Programs":[
 		"Alien Space Programs"
 	],
-	"All These Worlds":[
-		"Hypothetical Worlds",
-		"Xyphos Mods"
-	],
-	"All Y'All":[
-		"Polandball",
-		"Real Fuels"
-	],
 	"Almost Free Launch Clamps":[
 		"Almost Free Launch Clamps"
 	],
 	"(Almost) Real Solar System":[
 		"(Almost) Real Solar System"
-	],
-	"Alphabetical Kerbals":[
-		"Hypothetical Worlds"
 	],
 	"AlphaMensae's Saturn Mobile Launcher Standalone BDB Version":[
 		"AlphaMensae's Saturn Mobile Launcher Standalone"
@@ -232,17 +65,8 @@
 	"Alternate Resource Panel":[
 		"KSP Alternate Resource Panel"
 	],
-	"Alternators For All":[
-		"Aviator Arsenal"
-	],
 	"Alternis Kerbol Rekerjiggered":[
 		"Alternis Kerbol Rekerjiggered"
-	],
-	"Alternis Kerbol Rekerjiggered Flags":[
-		"Alternis Kerbol Rekerjiggered"
-	],
-	"Alternis Real Solar System":[
-		"(Almost) Real Solar System"
 	],
 	"Amazing Curve Editor":[
 		"Amazing Curve Editor"
@@ -250,38 +74,11 @@
 	"Ambient Light Adjustment":[
 		"Ambient Light Adjustment"
 	],
-	"AmpYear":[
-		"Arkas",
-		"Hangar",
-		"Impact!"
-	],
-	"Analog Control":[
-		"Heat Control"
-	],
 	"Analog Control Continued":[
 		"Analog Control Continued"
 	],
-	"Angara Rocket Pack":[
-		"Rangers Planet Pack"
-	],
-	"Animated Attachment":[
-		"Animated Decouplers"
-	],
 	"Animated Decouplers":[
 		"Animated Decouplers"
-	],
-	"Animated Decouplers - x64":[
-		"Animated Decouplers"
-	],
-	"Animated Decouplers":[
-		"Animated Decouplers"
-	],
-	"Kerbal Hacks: Animated Station Screens":[
-		"Animated Station Screens"
-	],
-	"Antares-Cygnus":[
-		"Tantares",
-		"AutoAsparagus"
 	],
 	"Antares Solar System":[
 		"Antares Solar System"
@@ -289,35 +86,8 @@
 	"Antenna Helper":[
 		"Antenna Helper"
 	],
-	"AntennaRange":[
-		"AntennaSleep"
-	],
-	"AntennaRangePatch4Antennas":[
-		"Sigma: Antennas"
-	],
-	"AntennaRangePatch4OctoSat":[
-		"Antenna Helper",
-		"Antenna Power Saver",
-		"AntennaSleep"
-	],
-	"AntennaRangePatch4ORIGAMEAntenna":[
-		"Antenna Helper",
-		"Antenna Power Saver",
-		"AntennaSleep"
-	],
-	"AntennaRangePatches":[
-		"Antenna Helper",
-		"Antenna Power Saver",
-		"AntennaSleep"
-	],
-	"Antennas":[
-		"JX2Antenna"
-	],
 	"AntennaSleep":[
 		"AntennaSleep"
-	],
-	"AnyRes":[
-		"Knes"
 	],
 	"AnyRes Continued":[
 		"AnyRes Continued"
@@ -325,20 +95,8 @@
 	"AoA Technologies":[
 		"AoA Technologies"
 	],
-	"Airship Pirates KSP Modpack":[
-		"ASET Props Pack",
-		"Kerbal Cities Pack",
-		"US Probes Pack",
-		"Kirov Airship Mod"
-	],
 	"Asclepius":[
 		"Asclepius"
-	],
-	"Asclepius cloudpack":[
-		"Asclepius"
-	],
-	"ASET Agency ":[
-		"SM Armory"
 	],
 	"ASET Avionics":[
 		"ASET Avionics Pack"
@@ -346,136 +104,28 @@
 	"ASET Props":[
 		"ASET Props Pack"
 	],
-	"Kerbal Hacks: Asphalt Tiles":[
-		"Kerbal Hacks: Droptank \"Wrapper\"",
-		"Kerbal Hacks: Wearable KIS Props",
-		"Kerbal Launch Vehicles"
-	],
 	"Kerbal Hacks: Asphalt Tiles - Welded Parts":[
 		"Kerbal Hacks: Wearable KIS Props"
-	],
-	"Asteroid Day":[
-		"Astrogator"
-	],
-	"Astro\/Cosmonauts for Texture Replacer":[
-		"Cetera's Suits for TextureReplacerReplaced"
 	],
 	"Astrogator":[
 		"Astrogator"
 	],
-	"Astroniki Sunflare for Scatterer":[
-		"Asteroid Expansion Package",
-		"Antares Solar System",
-		"Antenna Power Saver",
-		"Control Sufrace Toggle"
-	],
-	"Astronomer's Visual Pack (Deprecated)":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack: Atmospheric Scattering":[
-		"Optional Atmospheres Revamped",
-		"Astronomer's Visual Pack",
-		"Better Atmospheres Reborn"
-	],
-	"Astronomer's Pack: Auroras - 4K (recommended)":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack: Auroras - 8K":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack - Clouds - High":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack - Clouds - Low":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack - Clouds - Medium":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack - Distant Object Enhancement config":[
-		"Distant Object Enhancements bis"
-	],
-	"Astronomer's Pack: Clouds for Eve & Jool - 2K":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack: Clouds for Eve & Jool - 4K (recommended)":[
-		"Contract Pack: Bases and Stations Continued"
-	],
-	"Astronomer's Pack: Clouds for Eve & Jool - 8K":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack: Lightning":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack - PlanetShine configuration":[
-		"Contract Configurator",
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack: Sandstorms and Surface Dust":[
-		"Automated Screenshots (and Saves)",
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack: Snow":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Pack: Surface Glow":[
-		"Astronomer's Visual Pack"
-	],
 	"Astronomer's Visual Pack":[
 		"Astronomer's Visual Pack"
-	],
-	"A Supreme Parts Mod":[
-		"Outer Planets Mod"
-	],
-	"Athena ":[
-		"Arkas"
-	],
-	"ATK Propulsion Pack":[
-		"ASET Props Pack",
-		"SSTU Expansion Pack"
 	],
 	"AtmosphereAutopilot (Fly-By-Wire)":[
 		"AtmosphereAutopilot"
 	],
-	"Atmospheric Sound Enhancement":[
-		"Stock Visual Enhancements"
-	],
 	"Atomic Age":[
 		"Atomic Age"
 	],
-	"AttitudeAdjuster":[
-		"NavBallAdjustor"
-	],
-	"AT Utils":[
-		"Arkas",
-		"Asclepius",
-		"TrimPlus",
-		"Tantares"
-	],
-	"AUC Aeronautic technoloy":[
-		"Cormorant Aeronology"
-	],
 	"Audio Muffler Redux":[
 		"Audio Muffler Redux"
-	],
-	"AugmentedReality":[
-		"Sonic Realism"
-	],
-	"Austrian Space Agency":[
-		"Space Age",
-		"Alien Space Programs"
 	],
 	"Auto Actions":[
 		"Auto Actions"
 	],
 	"AutoAsparagus":[
-		"AutoAsparagus"
-	],
-	"AutoLoadGame":[
-		"OuterSpace",
-		"Auto Actions",
-		"Atomic Age",
-		"TotalTime",
 		"AutoAsparagus"
 	],
 	"Automated Aerial Refueling System":[
@@ -487,50 +137,8 @@
 	"Automated Screenshots & Saves":[
 		"Automated Screenshots (and Saves)"
 	],
-	"Auto Rove":[
-		"Panto Rover"
-	],
-	"AutoSmartParts":[
-		"Talisar Parts",
-		"AutoAsparagus"
-	],
-	"AV8 Harrier WITH TRUE VTOL Flight":[
-		"VX Series II Engine Pack"
-	],
-	"A Very Kerbal Christmas":[
-		"Kerbal Chroma"
-	],
 	"Aviation Lights":[
 		"Aviaton Lights"
-	],
-	"A visor for Valentina":[
-		"Aviator Arsenal"
-	],
-	"Astronomer's Visual Pack-2k Textures":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Visual Pack-4k Textures":[
-		"Astronomer's Visual Pack"
-	],
-	"Astronomer's Visual Pack-8k Textures":[
-		"Astronomer's Visual Pack"
-	],
-	"Axis System":[
-		"Ship List"
-	],
-	"B2 Spirit Stealth Bomber":[
-		"Salyut Stations"
-	],
-	"B52H":[
-		"",
-		"SETI",
-		"kRPC",
-		"JSat",
-		"FASA",
-		"Knes",
-		"DCK",
-		"KS3P",
-		""
 	],
 	"B9 Aerospace Pack":[
 		"B9 Aerospace"
@@ -566,71 +174,17 @@
 	"BackgroundProcessing":[
 		"BackgroundProcessing"
 	],
-	"Background Resources":[
-		"BackgroundProcessing"
-	],
-	"Back In Black":[
-		"Bacon Labs"
-	],
-	"Back In Black Mods texture pack":[
-		"Community Terrain Texture Pack"
-	],
 	"Baha EPL - Redrilled":[
 		"Baha EPL Redrilled"
-	],
-	"Bahamuto Dynamics (Parts pack)":[
-		"Large Boat Parts Pack"
-	],
-	"balastanks-extended":[
-		"Chatterer Extended"
 	],
 	"Ballast Nuclear Submarine Mod":[
 		"Ballast and Nuclear Submarine Parts Mod"
 	],
-	"Ballistanks":[
-		"Collision FX",
-		"Bacon Labs",
-		"Tantares",
-		"PartTweaks"
-	],
-	"CIT - BAM":[
-		"Crew R&R",
-		"ION RCS",
-		"OPT_WBI"
-	],
 	"Blast Awesomeness Modifier (BAM)":[
 		"Blast Awesomeness Modifier"
 	],
-	"Banana for Scale - large":[
-		"OPT Space Plane",
-		"MaErDa Corp Showcase"
-	],
-	"Banana for Scale - small":[
-		"Real Scale Boosters"
-	],
-	"Bargain Rocket Parts":[
-		"Bargain Rocket Parts Recycled"
-	],
 	"Bargain Rocket Parts Recycled":[
 		"Bargain Rocket Parts Recycled"
-	],
-	"Basic DeltaV":[
-		"MusicMute",
-		"Vapor Vent",
-		"Signal Delay",
-		"Sonic Realism"
-	],
-	"Basic Orbit":[
-		"Bacon Labs"
-	],
-	"Basic Procedural Textures":[
-		"Procedural Start"
-	],
-	"BahamutoD Animation Modules":[
-		"Lambda Station Decals"
-	],
-	"BDArmory":[
-		"SM Armory"
 	],
 	"BDArmoryContinued":[
 		"BDArmory Continued"
@@ -647,42 +201,14 @@
 	"BDArmory DMP Mod":[
 		"BDArmory Continued"
 	],
-	"BD Railgun":[
-		"Buffalo"
-	],
-	"BDynamics Mk22 Cockpits":[
-		"Aviation Cockpits"
-	],
-	"Bear Landing Leg LT-B":[
-		"Landing Height"
-	],
 	"Beautified Dres":[
 		"Beautified Dres!!"
-	],
-	"Be Cool Stock Nuke":[
-		"Decal Stickers"
-	],
-	"Behemoth Aerospace Engineering Large Parts":[
-		"Kethane Plugin and Parts",
-		"Ferram Aerospace Research",
-		"Coatl Aerospace ProbesPlus",
-		"CxAerospace: Station Parts Pack",
-		"MAD - Aerospace Parts"
-	],
-	"Better Buoyancy":[
-		"BetterBurnTime"
 	],
 	"BetterBurnTime":[
 		"BetterBurnTime"
 	],
 	"BetterCrewAssignment":[
 		"BetterCrewAssignment"
-	],
-	"BetterEmissives":[
-		"BetterBurnTime"
-	],
-	"BetterIonDrives":[
-		"BetterBurnTime"
 	],
 	"Better Load Save Game":[
 		"BetterLoadSaveGames"
@@ -699,25 +225,11 @@
 	"Better Science Labs Continued":[
 		"Better Science Labs Continued"
 	],
-	"Better SR Bs":[
-		"Meter Stick",
-		"WetterWings"
-	],
-	"BetterTimeWarp":[
-		"BetterBurnTime",
-		"WetterWings"
-	],
 	"BetterTimeWarpContinued":[
 		"BetterTimeWarpContinued"
 	],
-	"Billiard's Planet Pack":[
-		"Galileo's Planet Pack"
-	],
 	"Biomatic":[
 		"Biomatic"
-	],
-	"Biomatic For All Command Modules":[
-		"Boost Flap Controller"
 	],
 	"Biome Corrections":[
 		"Biome Corrections"
@@ -725,39 +237,8 @@
 	"BKD\/Blue kerbin dynamics Mk1 Fuel Tanks Plus":[
 		"Blue Kerbin Dynamics Mk1 Fuel Tanks Expansion"
 	],
-	"Blackleg Industries":[
-		"Korda Industries"
-	],
-	"BlackInd MM Tantares TACLifeSupport":[
-		"Closed Loop Life Support"
-	],
-	"BlackRibbon-BDA":[
-		"Black Friday!"
-	],
-	"Black Tipped Nosecone":[
-		"Black Friday!",
-		"BackgroundProcessing",
-		"Real Time Clock 2",
-		"Search and Rescue",
-		"Beautified Dres!!"
-	],
-	"Blade Tweaks":[
-		"PartTweaks"
-	],
 	"Bluedog Design Bureau":[
 		"Bluedog Design Bureau"
-	],
-	"Blue Hawk Industries":[
-		"Korda Industries"
-	],
-	"Bob's Panic Box":[
-		"Jool Rings Mod"
-	],
-	"BOMPs":[
-		"Arkas",
-		"kRPC",
-		"Knes",
-		"KS3P"
 	],
 	"BonVoyage":[
 		"Bon Voyage"
@@ -765,45 +246,8 @@
 	"Bolt-On Screenshot System (BOSS) Continued":[
 		"Bolt-On Screenshot System Continued"
 	],
-	"BoxSat":[
-		"JSat"
-	],
-	"BoxSat prototype parts":[
-		"Store My Reports",
-		"Mk1 Prototype Cockpit",
-		"MAD - Aerospace Parts"
-	],
 	"Brazilian Flag - Bandeira do Brasil":[
 		"Brazilian Flags"
-	],
-	"British Rockets":[
-		"US Rockets"
-	],
-	"BSG Enlisted Ranks (Grey) - FINAL FRONTIER ADD-ON":[
-		"Science - Full Reward!",
-		"In With the New and Old - IWNO",
-		"RSS Realistic Saturn Ring Texture"
-	],
-	"BSG Enlisted Ranks (Red) - FINAL FRONTIER ADD-ON":[
-		"Science - Full Reward!",
-		"In With the New and Old - IWNO"
-	],
-	"BSG Officer Ranks - FINAL FRONTIER ADD-ON":[
-		"Science - Full Reward!",
-		"Omicron - Flying Space Car"
-	],
-	"Bulb":[
-		"",
-		"SETI",
-		"kRPC",
-		"JSat",
-		"FASA",
-		"Knes",
-		"Skylab",
-		"DCK",
-		"Buffalo",
-		"KS3P",
-		""
 	],
 	"Buoyancy Control":[
 		"Buoyancy Control"
@@ -811,27 +255,14 @@
 	"Burger Mod":[
 		"Burger Mod!"
 	],
-	"Burn Together!":[
-		"Kronometer"
-	],
-	"BurnTogether Continued":[
-		"Toolbar Continued",
-		"Werner Checker Continued"
-	],
 	"Buzzard Collectors \"Hydrogen Lovers Version\"":[
 		"Buzzard Collectors"
 	],
 	"Buzzard Collectors":[
 		"Buzzard Collectors"
 	],
-	"BWA-X - ROMBUS":[
-		"FASA RCS"
-	],
 	"BZ-1 Radial Attachment Point":[
 		"BZ-1 Radial Attachment Point"
-	],
-	"CactEye 2 Orbital Telescope":[
-		"DMagic Orbital Science"
 	],
 	"CactEye Optics Community":[
 		"Cacteye Optics Community Takeover"
@@ -839,24 +270,8 @@
 	"CactEye Distant Object Enhancement Compatibility Patch":[
 		"Distant Object Enhancements bis"
 	],
-	"Camera Focus Changer":[
-		"Speed Unit Changer",
-		"Refocused Camera Focus Changer"
-	],
 	"Camera Tools":[
 		"Camera Tools"
-	],
-	"CA - Mk3 Block II":[
-		"Real Time Clock 2"
-	],
-	"Canadarm":[
-		"Hangar"
-	],
-	"Canadian Flags":[
-		"Brazilian Flags"
-	],
-	"CapCom - Mission Control On The Go":[
-		"Mission Controller 2"
 	],
 	"[1.3] Capsule Corporation Endeavour (Mars Base Camp)":[
 		"Capsule Corp. Endeavour - MADV"
@@ -864,43 +279,14 @@
 	"Carcharoth Aeronautics":[
 		"Carcharoth Aeronautics"
 	],
-	"CareerManager":[
-		"PatchManager"
-	],
 	"CareerManagerContinued":[
-		"Career Manager Continued"
-	],
-	"Career Mode Part Cost Nullifer":[
 		"Career Manager Continued"
 	],
 	"Coyote Space Industries - Cargo Freighter":[
 		"Coyote Space Industries - Cargo Freighter"
 	],
-	"Cargo Transportation Solutions":[
-		"Freight Transport Technologies",
-		"MacLuky Space Solutions"
-	],
-	"CCTV":[
-		"SETI",
-		"DCK"
-	],
-	"Celestial Body Science Editor":[
-		"Precise Maneuver Editor"
-	],
 	"Centauri Dreams":[
 		"Centauri Dreams"
-	],
-	"Cepheus Sunflare":[
-		"Galileo's Sun Flares"
-	],
-	"Cessna Style IVA cockpit":[
-		"Mk1 Prototype Cockpit",
-		"Su-27 Style Part Pack"
-	],
-	"Cetera's Suit Mod":[
-		"Outer Planets Mod",
-		"Meter Stick",
-		"Malah's Quick Mods"
 	],
 	"Chaka Monkey Exploration Systems":[
 		"Chaka Monkey Evolution"
@@ -914,46 +300,11 @@
 	"Chatterer Extended":[
 		"Chatterer Extended"
 	],
-	"CIT - CheatMenu":[
-		"STS - Avalon"
-	],
-	"Chenowth MPPV":[
-		"Crew R&R",
-		"ShowFPS"
-	],
-	"Chinese Pack Continued":[
-		"AirPark Continued"
-	],
 	"Icecovery's Chinese Spacecraft Pack":[
 		"Icecovery's Chinese Spacecraft Pack"
 	],
-	"Chinese TianGong Science Space Station":[
-		"Real Scale Sea Dragon",
-		"Mkerb Inc. Science Instruments",
-		"Station Science Continued"
-	],
-	"CIT - ChopIt":[
-		"CapCom",
-		"Hot Spot",
-		"Crew Light",
-		"STS - Avalon",
-		"Craft Import"
-	],
 	"Dr. Jet's Chop Shop":[
 		"Dr. Jet's Chop Shop"
-	],
-	"Chrononaut":[
-		"Kronkus"
-	],
-	"Chute Safety Indicator":[
-		"Trim Indicator"
-	],
-	"CIT - CITUtil":[
-		"Heat Control",
-		"Time Control",
-		"Crew Light",
-		"STS - Avalon",
-		"Craft Import"
 	],
 	"Civilian Population":[
 		"Civilian Population"
@@ -961,28 +312,11 @@
 	"Civilian Populations Revived":[
 		"Civilian Population"
 	],
-	"ClampsBeGone":[
-		"CapCom",
-		"Graphotron",
-		"Plane Mode",
-		"Dump&Burn!",
-		"PlanetShine"
-	],
 	"ClickThrough Blocker":[
 		"Click Through Blocker"
 	],
 	"Closed Loop Life Support":[
 		"Closed Loop Life Support"
-	],
-	"Cloaking Device":[
-		"KrakenScience"
-	],
-	"Official Cloud Aerospace and Rocket Technologies":[
-		"Tarsier Space Technologies",
-		"Freight Transport Technologies"
-	],
-	"ProbesPlus!":[
-		"TrimPlus"
 	],
 	"Coherent Contracts":[
 		"Coherent Contracts"
@@ -1005,65 +339,14 @@
 	"Comfortable Landing":[
 		"Comfortable Landing"
 	],
-	"Command Inventory":[
-		"Buzzard Collectors",
-		"Sigma Binary",
-		"Sigma: Antennas",
-		"Trim Indicator",
-		"Smart Actuators",
-		"Deadly Reentry",
-		"Cormorant Aeronology",
-		"K2 Command Pod",
-		"Rocket Factory",
-		"Craft Import",
-		"CraftHistory"
-	],
-	"Command Pod Rebalance":[
-		"CTTStockRebalance"
-	],
-	"CommNet Antennas Extension":[
-		"CommNet Constellation"
-	],
-	"CommNet Antennas Info":[
-		"CommNet Constellation"
-	],
 	"CommNet Constellation":[
 		"CommNet Constellation"
-	],
-	"CommNet Manager":[
-		"Module Manager",
-		"Hotkey Manager"
 	],
 	"CommNet Visualisation":[
 		"CommNet Visualisation"
 	],
-	"Common Core Pods ":[
-		"Custom Asteroids",
-		"Camera Tools",
-		"Karbonite Plus",
-		"Fusion Tech Mod",
-		"Biome Corrections",
-		"K2 Command Pod",
-		"Mod Pods",
-		"Procedural Pods"
-	],
-	"C.A.L++ (Community Ammunition Library for BDArmory)":[
-		"Star Wars Laser Parts Pack Add-on for BDArmory"
-	],
-	"Community Category Kit":[
-		"Custom Category Kit"
-	],
-	"Community Delta-V Maps":[
-		"Community Trait Icons",
-		"Community Resource Pack",
-		"Community Tech Tree"
-	],
 	"Community NavBall Docking Alignment Indicator":[
 		"Navball Docking Alignment Indicator"
-	],
-	"Community Parts Titles":[
-		"Community Trait Icons",
-		"Community Tech Tree"
 	],
 	"Community Real Agency Pack":[
 		"Community Real Agency Pack"
@@ -1092,46 +375,8 @@
 	"ConstantTWR":[
 		"ConstantTWR"
 	],
-	"Constellation Essentials":[
-		"Constitution Refit"
-	],
-	"CONTARES":[
-		"ION RCS"
-	],
-	"Contares antennas and dishes":[
-		"Antares Solar System",
-		"Contract Reward Modifier",
-		"Notantares Space Industries"
-	],
-	"Contares CA-1 Canadian Arrow Suborbital Space-Tourist-Launcher":[
-		"Contract Pack: Historical Progression",
-		"Contract Pack: Interplanetary Mountaineer"
-	],
-	"Contares Common":[
-		"Tantares",
-		"CorrectCoL"
-	],
-	"Contares REX Free Flyer":[
-		"Antares Solar System"
-	],
 	"Contract Configurator":[
 		"Contract Configurator"
-	],
-	"Contract Pack: Advanced Progression":[
-		"Contract Pack: Historical Progression"
-	],
-	"Contract Pack: Anomaly Surveyor":[
-		"Contract Pack: Kerbal Academy"
-	],
-	"Contract Pack: Asclepius":[
-		"Contract Pack: Clever Sats",
-		"Contract Pack: RemoteTech"
-	],
-	"Contract Pack: Banking":[
-		"Contract Pack: RemoteTech"
-	],
-	"Contract Pack: Base Construction":[
-		"Contract Pack: RemoteTech"
 	],
 	"Contract Pack: Clever Sats":[
 		"Contract Pack: Clever Sats"
@@ -1139,29 +384,14 @@
 	"Contract Pack: Historical Progression":[
 		"Contract Pack: Historical Progression"
 	],
-	"Contract Pack: SCANSat":[
-		"Contract Pack: Clever Sats"
-	],
 	"Contract Pack: Defense Combat Advisors (Default Aim)":[
 		"Contract Pack: Defense Combat Advisors"
 	],
 	"Contract Pack: Defense Combat Advisors (Legacy Aim)":[
 		"Contract Pack: Defense Combat Advisors"
 	],
-	"ContractConfigurator-FarOutContracts":[
-		"Contract Configurator"
-	],
 	"Contract Pack: Field Research":[
 		"Contract Pack: Field Research"
-	],
-	"Contract Pack: Grand Tours":[
-		"Contract Pack: Tourism Plus"
-	],
-	"Contract Pack: Historic Missions":[
-		"Contract Pack: Historical Progression"
-	],
-	"Contract Pack: Historic Missions for RSS":[
-		"Contract Pack: Historical Progression"
 	],
 	"Contract Pack: Interplanetary Mountaineer":[
 		"Contract Pack: Interplanetary Mountaineer"
@@ -1169,34 +399,11 @@
 	"Contract Pack: Kerbal Academy":[
 		"Contract Pack: Kerbal Academy"
 	],
-	"Contract Pack: Kerbin-Side Jobs":[
-		"Contract Pack: Kerbin Air Force"
-	],
 	"Contract Pack: Bases and Stations":[
 		"Contract Pack: Bases and Stations Continued"
 	],
-	"Contract Pack: The K-Files":[
-		"Contract Pack: Clever Sats",
-		"Contract Pack: Tourism Plus"
-	],
-	"Kerbal Science Innovations Contract Pack":[
-		"Career Evolution Contract Pack"
-	],
 	"Contract Pack: RemoteTech":[
 		"Contract Pack: RemoteTech"
-	],
-	"Contract Pack: Save the ROUND-8":[
-		"Contract Pack: Sounding Rockets"
-	],
-	"Contract Pack: Rover Missions":[
-		"Contract Pack: Clever Sats",
-		"Contract Pack: Tourism Plus"
-	],
-	"SCANsat mission pack":[
-		"SSTU Expansion Pack"
-	],
-	"Contract Pack: SCANSat Lite":[
-		"Contract Pack: Clever Sats"
 	],
 	"Contract Pack: Sounding Rockets":[
 		"Contract Pack: Sounding Rockets"
@@ -1204,27 +411,7 @@
 	"Contract Pack: Tourism Plus":[
 		"Contract Pack: Tourism Plus"
 	],
-	"Contract Pack: Unmanned Contracts":[
-		"Contract Pack: Clever Sats",
-		"Contract Pack: CommNet Relays"
-	],
-	"Contract Pack: Useful Space Stations":[
-		"Contract Pack: Clever Sats"
-	],
-	"Contract Filter":[
-		"Soundtrack Editor",
-		"Contracts Window +"
-	],
-	"Contract Filter Continued":[
-		"Image Viewer Continued"
-	],
-	"Contract Parser":[
-		"CraftSaver"
-	],
 	"Contract Reward Modifier":[
-		"Contract Reward Modifier"
-	],
-	"Contract Science Modifier":[
 		"Contract Reward Modifier"
 	],
 	"Contracts Window +":[
