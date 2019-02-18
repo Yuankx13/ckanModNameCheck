@@ -417,21 +417,8 @@
 	"Contracts Window +":[
 		"Contracts Window +"
 	],
-	"Control From Here":[
-		"ControlHereAG"
-	],
-	"Control Lock":[
-		"ControlHereAG"
-	],
 	"Control Surface Toggle":[
 		"Control Sufrace Toggle"
-	],
-	"CoolRockets":[
-		"HotRockets!",
-		"US Rockets"
-	],
-	"Copied Planetoid Mod":[
-		"Outer Planets Mod"
 	],
 	"CorrectCoL":[
 		"CorrectCoL"
@@ -439,24 +426,11 @@
 	"Corvus CF":[
 		"Corvus CF"
 	],
-	"covenant capital ship":[
-		"Coherent Contracts",
-		"Hooligan Labs Airships"
-	],
 	"CraftHistory":[
 		"CraftHistory"
 	],
 	"Craft Import & Upload":[
 		"Craft Import"
-	],
-	"Craft Manager":[
-		"CraftSaver",
-		"PatchManager",
-		"Project Manager"
-	],
-	"CrewFiles":[
-		"Crew R&R",
-		"Crew Light"
 	],
 	"Crew Light":[
 		"Crew Light"
@@ -464,29 +438,11 @@
 	"Crew Manifest":[
 		"Ship Manifest"
 	],
-	"Crew Portraits":[
-		"New Horizons",
-		"Coherent Contracts",
-		"Crew Light"
-	],
-	"Crew Queue":[
-		"Crew R&R",
-		"Crew Light"
-	],
 	"Crew R&R":[
 		"Crew R&R"
 	],
 	"Critical Temperature Gauge":[
 		"Critical Temperature Gauge"
-	],
-	"Retracting\/vectoring engines, Critter Crawler":[
-		"RetractableLiftingSurface Module"
-	],
-	"Crossfeed Enabler":[
-		"Project Manager"
-	],
-	"Crowd Sourced Flags":[
-		"Crowd Sourced Science"
 	],
 	"Crowd Sourced Science":[
 		"Crowd Sourced Science"
@@ -500,14 +456,8 @@
 	"Cryogenic Engines Extras: Surface Attachment":[
 		"Cryogenic Engines"
 	],
-	"Cryogenic Tanks":[
-		"Cryogenic Engines"
-	],
 	"CTTStockRebalance":[
 		"CTTStockRebalance"
-	],
-	"CursorDeleter":[
-		"Kronometer"
 	],
 	"Custom Asteroids":[
 		"Custom Asteroids"
@@ -530,64 +480,14 @@
 	"Custom Barn Kit - RO build":[
 		"Custom Barn Kit"
 	],
-	"Custom Biomes":[
-		"JoolBiomes"
-	],
-	"Custom Biomes (Real Solar System data)":[
-		"Quarter Sized Real Solar System",
-		"Stock Size Real Solar System"
-	],
-	"Custom Biomes (Stock data)":[
-		"Custom Category Kit"
-	],
-	"Custom Clusters":[
-		"Custom Asteroids"
-	],
-	"Custom Clusters Stock Adapter Standalone":[
-		"Custom Asteroids",
-		"Ace's Stock System Overhaul",
-		"Custom Category Kit",
-		"Automated Static File Localizer",
-		"Stock Antenna Balance",
-		"Taerobee - Stockalike X-1 and More"
-	],
-	"Steam Punk Pack v0.38":[
-		"ERU Planet Pack",
-		"Soundtrack Editor",
-		"Giant Flag Pack",
-		"LAJ's Flag Pack",
-		"Stock Part Revamp",
-		"ASET Props Pack",
-		"Launch Pad Lamp",
-		"Real Time Clock 2",
-		"SteamGauges",
-		"SteamGauges (1.3 patch)",
-		"RealEnginesPack"
-	],
-	"Custom Shader Loader":[
-		"Custom Asteroids"
-	],
 	"Carrier Vessel eXpansion (CVX)":[
 		"Carrier Vessel Expansion"
 	],
 	"CxAerospace: Station Parts Pack":[
 		"CxAerospace: Station Parts Pack"
 	],
-	"The New CZ-2 Lanuch  System":[
-		"Reworked Stock System",
-		"Kerbal Krash System"
-	],
-	"Daedalus Consortium Megastations":[
-		"RSS Constellations"
-	],
-	"Danger Alerts":[
-		"Node Alert"
-	],
 	"Danger Alerts Continued":[
 		"Danger Alerts Continued"
-	],
-	"DangIt!":[
-		"Hangar"
 	],
 	"Dang It! Continued":[
 		"Dang It! Continued"
@@ -598,66 +498,20 @@
 	"DarkSideTechnology":[
 		"DarkSideTechnology"
 	],
-	"Dark Textures":[
-		"Trajectories",
-		"Tantares"
-	],
-	"Dassault Rafale":[
-		"DarkMultiPlayer",
-		"Draggable Navball"
-	],
-	"Dated QuickSaves":[
-		"Decal Stickers",
-		"Meter Stick",
-		"Malah's Quick Mods",
-		"DockSafe"
-	],
 	"Davon Supply Mod":[
 		"Davon Supply Mod"
 	],
 	"Davon Throttle Control systems":[
 		"Davon Throttle Control Systems"
 	],
-	"DCK - Davinci's Combat Kit":[
-		"LCD - Launch CountDown"
-	],
-	"DCK FutureTech":[
-		"JDSA FlightTech",
-		"RemoteTech"
-	],
-	"DDSLoader":[
-		"KScale2",
-		"KSPCasher",
-		"DiscordRP",
-		"KeyNode",
-		"DockSafe"
-	],
 	"Deadly Reentry Continued":[
-		"Image Viewer Continued",
-		"Analog Control Continued",
-		"Danger Alerts Continued",
-		"Vessel Viewer Continued",
-		"Dang It! Continued",
 		"Deadly Reentry"
-	],
-	"DeadSkins for AviationLights ReLit":[
-		"Aviaton Lights",
-		"Editor Extensions Redux"
 	],
 	"Debug Stuff":[
 		"DebugStuff"
 	],
-	"Decalc'o'mania":[
-		"Kerbal Kommander",
-		"Decal Stickers",
-		"Telemagic"
-	],
 	"Decal Stickers":[
 		"Decal Stickers"
-	],
-	"Declasse Voodoo Car":[
-		"Play Your Way",
-		"Plane Mode"
 	],
 	"Decouple from heatshield":[
 		"Decouple from Heatshield"
@@ -667,15 +521,6 @@
 	],
 	"Decouple With Control":[
 		"Decouple with Control"
-	],
-	"DeepFreeze Continued...":[
-		"EvaFuel Continued",
-		"FTL Drive Continued",
-		"Endurance Continued"
-	],
-	"Deep Sky Core":[
-		"Descent Mode",
-		"DeepFreeze"
 	],
 	"Deep Space Exploration Vessels":[
 		"Deep Space Exploration Vessels"
@@ -689,44 +534,11 @@
 	"Deflatable Heat Shield":[
 		"Decouple from Heatshield"
 	],
-	"Deltaglider XR-1 for KSP":[
-		"Real KSC in KSP"
-	],
-	"Den Tech":[
-		"HabTech"
-	],
-	"Deployable Engines Plugin":[
-		"RealEnginesPack"
-	],
-	"KerwisModuleDepthCharge":[
-		"Module Manager"
-	],
-	"Derivative Textures":[
-		"Kerbiting System"
-	],
 	"Descent Mode":[
 		"Descent Mode"
 	],
 	"Destruction Effects":[
 		"Destruction Effects"
-	],
-	"Diazo's Landing Height Display":[
-		"Landing Height"
-	],
-	"DIRECT Launch Vehicles":[
-		"Kerbal Launch Vehicles"
-	],
-	"KSP DiRT":[
-		"KSPDev"
-	],
-	"Discontinued Parts":[
-		"Karbonite Plus",
-		"DiscordRP",
-		"RN Misc Parts",
-		"KDEX Continued",
-		"LLL Continued",
-		"SXT Continued",
-		"Talisar Parts"
 	],
 	"DiscordRP":[
 		"DiscordRP"
@@ -743,28 +555,8 @@
 	"Diverse Kerbal Heads":[
 		"Diverse Kerbal Heads"
 	],
-	"DKI: Project Stellar Technologies":[
-		"MOIST! Underwater Technologies",
-		"Shuttle Payload Technologies",
-		"Tarsier Space Technologies"
-	],
 	"DMagic Orbital Science":[
 		"DMagic Orbital Science"
-	],
-	"DMModuleScienceAnimateGeneric":[
-		"AutomatedScienceSampler",
-		"ScienceContainers"
-	],
-	"DaMichel's AeroRTG":[
-		"DMagic's Modlets",
-		"Magico13's Modlets",
-		"Launchers Pack"
-	],
-	"DaMichel's Cargo Bays":[
-		"DMagic's Basic Mods"
-	],
-	"DaMichel's Spherical Tanks":[
-		"Modular Fuel Tanks"
 	],
 	"Docking camera (KURS)":[
 		"Docking Camera (KURS)"
@@ -772,20 +564,8 @@
 	"Docking Port Alignment Indicator":[
 		"Docking Port Alignment Indicator"
 	],
-	"Docking Port Sound FX":[
-		"Docking Sounds!!"
-	],
 	"Docking Sounds":[
 		"Docking Sounds!!"
-	],
-	"Docking Target":[
-		"Docking Sounds!!",
-		"Landing Height",
-		"DockRotate",
-		"DockSafe"
-	],
-	"docking tube":[
-		"DockRotate"
 	],
 	"Dock Rotate":[
 		"DockRotate"
@@ -793,88 +573,23 @@
 	"DockSafe":[
 		"DockSafe"
 	],
-	"Dodo Labs - Stockalike Electron":[
-		"Taerobee - Stockalike X-1 and More"
-	],
-	"Dogecoin Flag":[
-		"Brazilian Flags",
-		"Ukraine Flags"
-	],
-	"DoubleDouble":[
-		"DockRotate",
-		"DoubleTapBrakes",
-		"ReCoupler"
-	],
 	"Draft Twitch Viewers":[
 		"Draft Twitch Viewers Redrafter"
 	],
 	"Draggable Altimeter":[
 		"Draggeble Altimeter"
 	],
-	"DraggableMenu":[
-		"Draggable Navball"
-	],
 	"Draggable Navball":[
 		"Draggable Navball"
-	],
-	"Dres Plus":[
-		"TrimPlus"
-	],
-	"Drill Action Fix":[
-		"Collision FX",
-		"Auto Actions"
-	],
-	"Drop A Maneuver Node":[
-		"Precise Maneuver Editor"
 	],
 	"DSD Mobile Labs":[
 		"DSD Mobile Labs"
 	],
-	"Draft Twitch Viewers":[
-		"Draft Twitch Viewers Redrafter"
-	],
 	"Dump&Burn!":[
 		"Dump&Burn!"
 	],
-	"Duna Direct":[
-		"Chatterer",
-		"Chatterer+",
-		"TRP-Hire",
-		"Ship List",
-		"TotalTime",
-		"Node Alert",
-		"Crew Light",
-		"Dump&Burn!",
-		"HullBreach",
-		"LongStrut",
-		"RealHeat",
-		"Tantares",
-		"HabTech",
-		"B.Dynamics",
-		"Scatterer"
-	],
-	"AstroGamers DunaPlus Mod!":[
-		"Astronomer's Visual Pack"
-	],
 	"Duna Restoration Project":[
 		"Duna Restoration Project"
-	],
-	"Duna Space Program":[
-		"Alien Space Programs"
-	],
-	"Duopods":[
-		"Kronkus",
-		"KeyNode",
-		"Mod Pods"
-	],
-	"Dynamic Battery Storage":[
-		"Universal Storage"
-	],
-	"Dynamic Deflection":[
-		"Wheels Collection"
-	],
-	"Dynamic Texture Loader":[
-		"NavBallTextureChanger"
 	],
 	"EarlyBird":[
 		"Early Bird"
@@ -891,76 +606,17 @@
 	"Easy Vessel Switch (EVS)":[
 		"Easy Vessel Switch"
 	],
-	"EBRC Parts pack":[
-		"ERU Planet Pack"
-	],
-	"Eden Sunflare":[
-		"Extrasolar",
-		"Bon Voyage",
-		"Node Alert",
-		"ReCoupler",
-		"TweakScale"
-	],
-	"Editor Extensions":[
-		"Filter Extensions"
-	],
 	"Editor Extensions Redux":[
 		"Editor Extensions Redux"
-	],
-	"EditorTime":[
-		"TotalTime"
-	],
-	"EF2000 Euro Fighter":[
-		"Final Frontier"
-	],
-	"Electrical parts":[
-		"KerbalStats",
-		"Kerbal Hacks",
-		"Talisar Parts"
-	],
-	"ElectricCost":[
-		"Syncrio",
-		"Jettison",
-		"Spectra"
-	],
-	"Electric Thrust Engine (ETE)":[
-		"Elephant Engine"
 	],
 	"Elephant Engine":[
 		"Elephant Engine"
 	],
-	"EL-MKS Departsing":[
-		"Engine Lighting",
-		"SM Marine",
-		"MKS Explainer",
-		"Mk2 Expansion",
-		"Mk3 Expansion"
-	],
-	"Elon's Roadster & Starman":[
-		"The Dwarf Star",
-		"Ground Construction",
-		"Procedural Start",
-		"Earn Your Stripes"
-	],
-	"Em Drive":[
-		"Overdrive",
-		"SM Marine"
-	],
 	"Endurance (from Interstellar) Continued...":[
 		"Endurance Continued"
 	],
-	"Engine Cooler":[
-		"Engine Lighting",
-		"Inline Ballutes",
-		"Plane Mode",
-		"EMRController",
-		"ReCoupler"
-	],
 	"Engineer Level Fixer":[
 		"Engineer Level Fixer"
-	],
-	"Engine Igniter":[
-		"Engine Lighting"
 	],
 	"Engine Ignitor (standalone)":[
 		"Engine Ignitor Re-Ignited"
@@ -974,42 +630,6 @@
 	"Engine Lighting":[
 		"Engine Lighting"
 	],
-	"EngineResponseTime":[
-		"Engine Lighting",
-		"Engineer Level Fixer"
-	],
-	"AstroGamer's EnginesPlus Mod":[
-		"Astronomer's Visual Pack"
-	],
-	"Enhanced Navball":[
-		"Draggable Navball"
-	],
-	"Entchen Flag":[
-		"Extrasolar",
-		"Ukraine Flags",
-		"Flight Plan"
-	],
-	"Entropy":[
-		"Arkas",
-		"Extrasolar",
-		"Ktolemy",
-		"Firma",
-		"CapCom",
-		"Syncrio",
-		"MemGraph",
-		"AeroGUI",
-		"Hot Spot",
-		"KeyNode",
-		"Snacks!",
-		"Kaboom!",
-		"Knes",
-		"Tantares",
-		"Versus",
-		"SM Armory"
-	],
-	"Entropy extensions for RealChute":[
-		"Editor Extensions Redux"
-	],
 	"Environmental Visual Enhancements":[
 		"EnvironmentalVisualEnhancements"
 	],
@@ -1019,27 +639,8 @@
 	"Environmental Visual Enhancements - Low Resolution":[
 		"EnvironmentalVisualEnhancements"
 	],
-	"epic suits":[
-		"Asclepius",
-		"MusicMute",
-		"Spacetux",
-		"PicoPort",
-		"Ship List",
-		"TrimPlus",
-		"Kerbin City",
-		"Real Fuels",
-		"Versus"
-	],
 	"Extraplanetary Launchpads for MKS-Lite (Patch)":[
 		"Extraplanetary Launchpads"
-	],
-	"ERS":[
-		"",
-		"SETI",
-		"kRPC",
-		"FASA",
-		"DCK",
-		""
 	],
 	"Eskandare Heavy Industries":[
 		"Notantares Space Industries"
@@ -1050,15 +651,8 @@
 	"ESLD Jump Beacons":[
 		"ESLD Jump Beacons Revived"
 	],
-	"Estes Parachute Pack":[
-		"ERU Planet Pack",
-		"The Maritime Pack"
-	],
 	"Engineering Tech Tree":[
 		"Engineering Tech Tree"
-	],
-	"EVA Enhancements":[
-		"KSP Achievements"
 	],
 	"EVA Enhancements Continued":[
 		"EVA Enhancements Continued"
@@ -1066,53 +660,11 @@
 	"Eva Follower":[
 		"EVA Follower"
 	],
-	"EvaFuel":[
-		"Real Fuels"
-	],
 	"EVAFuel Continued":[
 		"EvaFuel Continued"
 	],
-	"EVA Handrails Continued":[
-		"NEBULA EVA Handrails Continued"
-	],
-	"EVAManager":[
-		"PatchManager"
-	],
-	"EVA OK!":[
-		"Arkas",
-		"ION RCS",
-		"FASA RCS",
-		"Snacks!",
-		"Kaboom!",
-		"Races!",
-		"FASA",
-		"Impact!",
-		"SCANsat",
-		"DCK",
-		"Versus"
-	],
 	"EVA Parachutes & Ejection Seats":[
 		"EVA Parachutes and Ejection Seats"
-	],
-	"EVA Struts":[
-		"LongStrut"
-	],
-	"EVA Transfer":[
-		"EVA Follower"
-	],
-	"EveBiomesPlus":[
-		"TrimPlus"
-	],
-	"AstroGamer's EvePlus Mod":[
-		"Astronomer's Visual Pack"
-	],
-	"EveryS":[
-		"Firma",
-		"Knes",
-		"Versus"
-	],
-	"Eve Space Program":[
-		"Alien Space Programs"
 	],
 	"ExceptionDetector":[
 		"ExceptionDetector"
@@ -1131,9 +683,6 @@
 	],
 	"KSP ExtendedAntennaProgression":[
 		"Extended Antenna Progression"
-	],
-	"Extensive Engineer Report":[
-		"Extensive Engineer Report Continued"
 	],
 	"ExtensiveEngineerReportContinued":[
 		"Extensive Engineer Report Continued"
@@ -1156,127 +705,26 @@
 	"ExtraPlanetaryLaunchpads->Regolith":[
 		"Extraplanetary Launchpads"
 	],
-	"Extrasolar Planets Byond Kerbol - Realistic scale":[
-		"Kerbfleet Planets: Kerbulus",
-		"Outer Planets Mod Plus"
-	],
-	"Extrasolar Planets Byond Kerbol - Stock configuration":[
-		"Kerbfleet Planets: Kerbulus",
-		"Outer Planets Mod Plus",
-		"Xen's Planet Collection",
-		"Glass Panes and Enclosures",
-		"Contract Configurator",
-		"Extensive Engineer Report Continued"
-	],
-	"F14 Tomcat":[
-		"Firma",
-		"FlagRotate"
-	],
-	"F4E1 Phantom Interceptor":[
-		"Chatterer",
-		"Elephant Engine",
-		"ExceptionDetector",
-		"Panto Rover",
-		"Trim Indicator"
-	],
-	"Facility Reset for 64 bit":[
-		"James Webb for Kerbal"
-	],
 	"Faring Radius Override":[
 		"Fairing Radius Override"
-	],
-	"Fairing With Mass":[
-		"Landing Aid",
-		"Karbonite Plus",
-		"Fusion Tech Mod",
-		"Landing Height",
-		"Landing Aiming"
-	],
-	"Strangely Familiar Eve Moons":[
-		"Tantares Fairing Extension"
-	],
-	"FanRadiator":[
-		"Stellarator",
-		"Hangar",
-		"Astrogator",
-		"GCMonitor",
-		"Kerbulator",
-		"FlagRotate",
-		"Firespitter"
-	],
-	"FantomWorks":[
-		"Panto Rover",
-		"Tantares"
 	],
 	"Far From Kerbin - Simple Planetary Bases":[
 		"Far From Kerbin - Simple Temporary Bases"
 	],
-	"Far From Kerbin Redux":[
-		"No More Grind Redux"
-	],
-	"Farlo Planetary Pack":[
-		"ERU Planet Pack"
-	],
-	"Farscape":[
-		"RescaleZ",
-		"Firma",
-		"Rescale!"
-	],
 	"FASA":[
 		"FASA"
-	],
-	"FASA LaunchClampsContinued":[
-		"OSE Workshop Continued",
-		"NovaPunch Continued"
-	],
-	"FASA RCS Stock-Like Mini Mod":[
-		"KSP Ringification Mod"
 	],
 	"FASTCORP Autogarage":[
 		"FASTCORP Autogarage"
 	],
-	"FASTCORP Roads and Bridges":[
-		"FASTCORP Autogarage"
-	],
-	"Federal Productions Flags":[
-		"Brazilian Flags",
-		"ESA Country Flags",
-		"Ukraine Flags"
-	],
 	"Feline Utility Rovers":[
 		"Feline Utility Rovers"
-	],
-	"Fenrir Lucnher Pack":[
-		"Rangers Planet Pack"
 	],
 	"Ferram Aerospace Research":[
 		"Ferram Aerospace Research"
 	],
 	"Ferram Aerospace Research Continued":[
 		"Ferram Aerospace Research"
-	],
-	"Feyntera System":[
-		"Kargantua System",
-		"Kerbiting System"
-	],
-	"Field Experience":[
-		"MKS Explainer",
-		"Solar Science",
-		"Filter Extensions"
-	],
-	"Fill It Up":[
-		"Firma",
-		"FuelTastic!",
-		"Who Am I",
-		"FuelWings",
-		"FlagPack",
-		"FASA RCS",
-		"Biomatic",
-		"Flight Plan",
-		"FlagRotate",
-		"HullBreach",
-		"Real Fuels",
-		"Firespitter"
 	],
 	"Filter Extensions - Plugin":[
 		"Filter Extensions"
@@ -1289,15 +737,6 @@
 	],
 	"Final Frontier":[
 		"Final Frontier"
-	],
-	"Fine Print":[
-		"Grand Prix"
-	],
-	"FinePrint - Stock Configuration":[
-		"Contract Configurator"
-	],
-	"Fingerboxes Core Plugin":[
-		"StageColorPlugin"
 	],
 	"Firespitter":[
 		"Firespitter"
@@ -1312,9 +751,6 @@
 	"Firma":[
 		"Firma"
 	],
-	"Fix Seat Eject":[
-		"Fog Of Tech"
-	],
 	"Flag Pack":[
 		"FlagPack"
 	],
@@ -1324,29 +760,8 @@
 	"Flag Rotate":[
 		"FlagRotate"
 	],
-	"EPL part hider for MKS":[
-		"Earn Your Stripes"
-	],
-	"Flexible Docking":[
-		"Cerillion",
-		"Kerbin Rings",
-		"Kerbol Origins",
-		"Before Kerbin",
-		"Engine Lighting",
-		"SpaceDock",
-		"Elephant Engine",
-		"FuelWings",
-		"Kerbal Hacks",
-		"Flight Plan",
-		"Landing Aiming",
-		"Airline Kuisine",
-		"Sensible Pumps"
-	],
 	"FlightPlan":[
 		"Flight Plan"
-	],
-	"Flying Wing Cargo Hauler":[
-		"Training Kerbalnauts"
 	],
 	"Flight Manager for Reusable Stages [FMRS]":[
 		"Flight Manager for Reusable Stages"
@@ -1357,42 +772,8 @@
 	"Fog Of Tech":[
 		"Fog Of Tech"
 	],
-	"Forgotten Real Engines":[
-		"Cryogenic Engines"
-	],
-	"Forgotten Worlds Dwarf Planets for KopernicusTech":[
-		"Dwarf Planets Plus",
-		"Kerbfleet Planets: Kerbulus",
-		"Outer Planets Mod Plus",
-		"Other_Worlds Star Pack Reboot"
-	],
 	"ForScience!":[
 		"ForScience!"
-	],
-	"ForScience Continued!":[
-		"RoverScience Continued"
-	],
-	"Fourian Fuel Systems":[
-		"Kargantua System",
-		"Kerbal Star Systems"
-	],
-	"Fox Defense Contracts - Tank turrets":[
-		"Coherent Contracts"
-	],
-	"Freedom Textures":[
-		"Kerbol Mysteries",
-		"Kronometer",
-		"Retrofuture"
-	],
-	"FreeEVA":[
-		"FASA"
-	],
-	"Hangar Extender":[
-		"ISRU Extended",
-		"Hangar Grid"
-	],
-	"FTL Drive":[
-		"Overdrive"
 	],
 	"FTL Drive Continued":[
 		"FTL Drive Continued"
@@ -1400,36 +781,7 @@
 	"Fuel Tanks Plus Deprecated":[
 		"Fuel Tanks Plus"
 	],
-	"FuelEfficientPilots":[
-		"Fuel Tanks Plus",
-		"FuelWings"
-	],
-	"Fuel Science":[
-		"[x] Science!",
-		"ForScience!",
-		"Solar Science"
-	],
-	"FuelSwitch to every tank-default":[
-		"Kerbin's KSP Overhaul",
-		"Fuel Tanks Plus",
-		"Draft Twitch Viewers Redrafter",
-		"Realism Overhaul",
-		"Realistic Heat Managment",
-		"Launch Towers Pack"
-	],
-	"FuelSwitch to every tank-ThermalPaint":[
-		"Draft Twitch Viewers Redrafter",
-		"SelectableDataTransmitter",
-		"RecoveryController",
-		"Almost Free Launch Clamps",
-		"Heat Patch for Convert-O-Tron 125",
-		"Realistic Heat Managment",
-		"Stock Visual Terrain"
-	],
 	"Fuel Tanks Plus":[
-		"Fuel Tanks Plus"
-	],
-	"Fuel Tanks TIMES 2":[
 		"Fuel Tanks Plus"
 	],
 	"FuelWings":[
@@ -1438,44 +790,14 @@
 	"FullAutoStrut":[
 		"FullAutoStrut"
 	],
-	"Fusebox":[
-		"Firma",
-		"CapCom",
-		"Spacetux",
-		"Races!",
-		"FASA",
-		"Knes",
-		"Buffalo"
-	],
 	"FuseBox Continued":[
 		"Fusebox Continued"
-	],
-	"FusTek Aerospace - Shared Assets":[
-		"MAD - Aerospace Parts"
-	],
-	"Future Weapons":[
-		"Auto Actions"
 	],
 	"Futuristic Engines":[
 		"Futuristic Engines"
 	],
-	"Fwiffo's Rareden Skybox":[
-		"Hammer Tech's Skybox"
-	],
-	"Gameframer":[
-		"Pathfinder"
-	],
-	"Game of Kerbals":[
-		"Kustom Kerbals"
-	],
-	"Procedural Parts - MainSailor's Procedural Textures - Gamma Textures":[
-		"Procedural Parts - Tidal Stream Branch"
-	],
 	"Contract Pack: Giving Aircraft a Purpose (GAP)":[
 		"Contract Pack: Giving Aircraft a Purpose"
-	],
-	"Graphic Memory Monitor":[
-		"RasterPropMonitor"
 	],
 	"G-Effects":[
 		"G-Effects"
@@ -1483,79 +805,17 @@
 	"Generic Inline Cockpits":[
 		"Generic Inline Cockpits Remade"
 	],
-	"GeometricShapeAeroTests":[
-		"KerbalKomets",
-		"Destruction Effects",
-		"Rover Wheel Sounds",
-		"KSP Achievements",
-		"GliderStats",
-		"Alien Space Programs",
-		"ResearchBodies",
-		"Soviet Spacecraft"
-	],
-	"Gerry Anderson's Space 1999 Pack":[
-		"Ferram Aerospace Research"
-	],
-	"Gimbal For All":[
-		"Kerbal Chroma",
-		"Final Frontier",
-		"Kerbal NRAP",
-		"Time Control",
-		"Real Fuels"
-	],
-	"GimbalTrim":[
-		"TotalTime",
-		"Kerbalism"
-	],
-	"Glass Elevator":[
-		"Name Generator"
-	],
 	"Glass Panes and Enclosures (GPE)":[
 		"Glass Panes and Enclosures"
 	],
-	"Goliath Patch":[
-		"FlagPack",
-		"GliderStats",
-		"Talisar Parts"
-	],
 	"GPOSpeedFuelPump":[
 		"GPOSpeedFuelPump"
-	],
-	"CIT - GovFunding":[
-		"AltFunding"
 	],
 	"Gameslinx Planet Overhaul":[
 		"Gameslinx's Planet Overhaul"
 	],
-	"GPOSpeedFuelPump":[
-		"GPOSpeedFuelPump"
-	],
 	"Galileo's Planet Pack":[
 		"Galileo's Planet Pack"
-	],
-	"GPP HighRes clouds":[
-		"Rover Wheel Sounds",
-		"Xyphos Mods"
-	],
-	"GPP LowRes clouds":[
-		"Xyphos Mods"
-	],
-	"GPP Secondary":[
-		"Pathfinder",
-		"Sigma Binary",
-		"PicoPort",
-		"StageRecovery",
-		"IR Sequencer",
-		"B9 Aerospace",
-		"D12 Aerospace",
-		"SM Armory"
-	],
-	"GPP Textures":[
-		"Tantares"
-	],
-	"Ground Proximity Warning System (GPWS)":[
-		"Kerbiting System",
-		"Proximity Audio Alarm"
 	],
 	"Grand Prix":[
 		"Grand Prix"
@@ -1563,21 +823,8 @@
 	"Graphotron":[
 		"Graphotron"
 	],
-	"GravityTurn":[
-		"Graphotron"
-	],
 	"GravityTurn Continued":[
 		"GravityTurn Continued"
-	],
-	"Gregrox's Multi Color Suit Pack 2.0":[
-		"Career Evolution Contract Pack"
-	],
-	"Multicolor Suits Pack":[
-		"USI Exploration Pack"
-	],
-	"Grindy Science":[
-		"KrakenScience",
-		"Solar Science"
 	],
 	"Ground Construction":[
 		"Ground Construction"
@@ -1585,77 +832,20 @@
 	"Ground Construction Core":[
 		"Ground Construction"
 	],
-	"Ground Proximity":[
-		"Grand Prix"
-	],
 	"GTIndustries":[
 		"GTIndustries"
-	],
-	"Habitat Plugin":[
-		"Flight Plan"
 	],
 	"HabTech":[
 		"HabTech"
 	],
-	"Half Size Real Solar System":[
-		"Stock Size Real Solar System"
-	],
-	"Half Size Real Solar System Textures - 2048 x 1024":[
-		"Stock Size Real Solar System"
-	],
-	"Half Size Real Solar System Textures - 4096 x 2048":[
-		"Stock Size Real Solar System"
-	],
-	"Half Size Real Solar System Textures - 8192 x 4096":[
-		"Stock Size Real Solar System"
-	],
-	"halo character costumes":[
-		"Kerbal Star Systems",
-		"Real Solar System",
-		"Uncharted Lands",
-		"Water Sounds",
-		"Planetary Domes",
-		"Part Commander Continued",
-		"Separator Destroyer",
-		"Real Scale Boosters"
-	],
 	"Hangar":[
 		"Hangar"
-	],
-	"Hangar Extender":[
-		"ISRU Extended",
-		"Hangar Grid"
 	],
 	"Hangar Grid":[
 		"Hangar Grid"
 	],
-	"HangerExtender":[
-		"ISRU Extended"
-	],
-	"Harder Solar System - Stock Scale":[
-		"Antares Solar System",
-		"Real Solar System (1.3.1 patch)"
-	],
-	"Harder Solar System - 2x Scale":[
-		"Antares Solar System"
-	],
-	"Harder Solar System - 3x Scale":[
-		"Antares Solar System"
-	],
-	"Harder Solar System - 4x Scale":[
-		"Antares Solar System"
-	],
-	"Harder Solar System - Generic Config":[
-		"Real Solar System (1.3.1 patch)"
-	],
-	"Haystack Continued":[
-		"Haystack ReContinued"
-	],
 	"Haystack ReContinued":[
 		"Haystack ReContinued"
-	],
-	"Procedural Parts - Hazard Tanks Textures":[
-		"Procedural Parts - Starwaster Branch"
 	],
 	"Heat Control":[
 		"Heat Control"
@@ -1663,42 +853,14 @@
 	"HeatControl Core":[
 		"Heat Control"
 	],
-	"Heat Management":[
-		"PatchManager"
-	],
-	"Heat Pump":[
-		"RealPlume ",
-		"Hot Spot",
-		"Real Fuels"
-	],
 	"Heat Shield for the Mk1 Command Pod":[
 		"Heat Shield for the Mk1 Command Pod"
-	],
-	"heatshield tile":[
-		"Descent Mode",
-		"Meter Stick"
-	],
-	"Hermes Interplanetary Spacecraft Dev Files With WIP MaV (Credit to xxhansonmaxx & OrbitalEscape)":[
-		"Integrated Stack Decouplers & Radial Crossfeed Control",
-		"SpaceX Interplanetary Transport System"
-	],
-	"Hexi's Rounded Attachment Kit":[
-		"BZ-1 Radial Attachment Point"
 	],
 	"Speedy's Hex Truss System":[
 		"Speedy's Hex Truss System"
 	],
-	"HGR 1.875m Parts":[
-		"RN Misc Parts"
-	],
-	"HGR Props":[
-		"Mod Pods"
-	],
 	"Hide Empty Tech Tree Nodes":[
 		"Hide Empty Tech Tree Nodes"
-	],
-	"Historian":[
-		"DiscordRP"
 	],
 	"Historian Expanded":[
 		"Historian Expanded"
@@ -1706,37 +868,11 @@
 	"Historical Progression Tech Tree":[
 		"Historical Progression Tech Tree"
 	],
-	"Command Module, Hold The Monoprop":[
-		"Human Colored Heads Recolored"
-	],
 	"Hooligan Labs Airships":[
 		"Hooligan Labs Airships"
 	],
-	"Hospital Ship":[
-		"Hot Spot"
-	],
-	"HotContents Orbital Systems":[
-		"Antares Solar System"
-	],
-	"Hot Kerbin (Alpha)":[
-		"Kerbin Rings",
-		"Kerbin City",
-		"North Kerbin Dynamics"
-	],
 	"HotRockets":[
 		"HotRockets!"
-	],
-	"HotRockets - Community Configs":[
-		"Stockalike RF Engine Configs",
-		"HGR Community Fixes"
-	],
-	"HotRockets - Emissive patch":[
-		"HotRockets!",
-		"Rockets and Spacecraft"
-	],
-	"HotRockets Fireworks pack":[
-		"HotRockets!",
-		"Rocket Factory"
 	],
 	"Hot Spot":[
 		"Hot Spot"
@@ -1744,16 +880,11 @@
 	"HullBreach":[
 		"HullBreach"
 	],
-	"Hullcam VDS":[
-		"HullBreach"
-	],
 	"HullcamVDS Continued":[
 		"Hullcam VDS Continued"
 	],
 	"Human Colored Faces":[
-		"Human Colored Heads Recolored",
-		"SSTU Color Presets",
-		"HullBreach"
+		"Human Colored Heads Recolored"
 	],
 	"Hydrogen Compression":[
 		"Hydrogen Compression"
@@ -1764,59 +895,17 @@
 	"Interstellar Adventure Revived":[
 		"Interstellar Adventure Revived"
 	],
-	"ID Flags and Decals":[
-		"Lambda Station Decals"
-	],
 	"Intersteller Flight Inc. Life Support (IFI-LS)":[
 		"Interstellar Flight Inc. Life Support"
 	],
-	"Image viewer":[
-		"Chatterer",
-		"Pathfinder",
-		"Space Age",
-		"Space Opera",
-		"Flyby Finder",
-		"SideView",
-		"SmokeScreen",
-		"Plane Mode",
-		"StageRecovery",
-		"IR Sequencer",
-		"Firespitter",
-		"VABReorienter",
-		"Scatterer"
-	],
 	"Image Viewer Continued":[
 		"Image Viewer Continued"
-	],
-	"imkSushi's Better Densities Mod":[
-		"Outer Planets Mod"
-	],
-	"imkSushi's Modded Challenges":[
-		"Alshain's Modlets"
-	],
-	"imkSushi's Planet System":[
-		"Mobile Frame System"
-	],
-	"imkSushi's renaming the Sun to Kerbol Mod":[
-		"Suthe Planet Overhaul Mod"
 	],
 	"Impact!":[
 		"Impact!"
 	],
 	"Impossible Innovations":[
 		"Impossible Innovations"
-	],
-	"Improved Chase Camera":[
-		"Procedural Start",
-		"Space Opera",
-		"Pappolo Flite Panel",
-		"Speed Unit Changer",
-		"Survey Transponder",
-		"Project Manager",
-		"Flare Replacer"
-	],
-	"ImprovedStrategies":[
-		"Strategia"
 	],
 	"IndicatorLights":[
 		"IndicatorLights"
@@ -1830,9 +919,6 @@
 	"Magic Smoke Industries Infernal Robotics - Legacy Parts":[
 		"Magic Smoke Industries Infernal Robotics"
 	],
-	"Sequencer for Infernal Robotics":[
-		"Magic Smoke Industries Infernal Robotics"
-	],
 	"InFlightFlagSwitcher":[
 		"In Flight Flag Switcher"
 	],
@@ -1842,42 +928,14 @@
 	"Inline Ballutes":[
 		"Inline Ballutes"
 	],
-	"Insight":[
-		"TestFlight"
-	],
-	"InSight Lander [BETA]":[
-		"InfiniteDice ICE"
-	],
 	"INSTANTIATOR":[
 		"INSTANTIATOR"
 	],
 	"Instell Incorporated Experimental Engines":[
 		"Instell Incorporated Experimental Technologies Continued"
 	],
-	"Insystem Mod for Kopernicus":[
-		"Kopernicus"
-	],
-	"Intake Build Aid":[
-		"Landing Aid",
-		"Inline Ballutes"
-	],
-	"Integrated Stack Decouplers":[
-		"Animated Decouplers"
-	],
-	"InterKalactic":[
-		"InterKalactic 2"
-	],
 	"InterKalactic 2":[
 		"InterKalactic 2"
-	],
-	"Internal RCS":[
-		"ION RCS",
-		"Kerbal CCTV",
-		"Kerbal NRAP",
-		"AntennaSleep"
-	],
-	"Flexo's SpaceX Interplanetary Transport System":[
-		"SpaceX Interplanetary Transport System"
 	],
 	"Interstellar Adventure":[
 		"Interstellar Adventure Revived"
@@ -1898,24 +956,8 @@
 	"ION RCS":[
 		"ION RCS"
 	],
-	"Infernal Robotics Model Rework - Core Pack":[
-		"MSI Infernal Robotics - Model Rework"
-	],
-	"Infernal Robotics Model Rework - Expansion Pack":[
-		"MSI Infernal Robotics - Model Rework"
-	],
-	"Infernal Robotics Model Rework - Utility Pack":[
-		"MSI Infernal Robotics - Model Rework"
-	],
 	"ISRU Thanks But No Tanks":[
 		"Tanks, But No Tanks"
-	],
-	"Its the little things":[
-		"WetterWings"
-	],
-	"IXS-Warpship-OS":[
-		"KSPCasher",
-		"Solar Science"
 	],
 	"James Webb For Kerbal":[
 		"James Webb for Kerbal"
@@ -1923,79 +965,20 @@
 	"The Janitor's Closet":[
 		"The Janitor's Closet"
 	],
-	"Jasper Aerospace Technologies":[
-		"Tarsier Space Technologies"
-	],
-	"JD Ballisback":[
-		"KerbalKlinic",
-		"FlagPack",
-		"Kerbal Hacks",
-		"KerBalloons",
-		"HullBreach",
-		"Kerbalism",
-		"US Probes Pack",
-		"B9 Aerospace"
-	],
-	"JDiminishingRTG":[
-		"Kerbin Rings"
-	],
-	"JD Liquid Fuel Cell":[
-		"Docking Fuel Pump"
-	],
-	"JDSA Point VTOL Engine":[
-		"Elephant Engine"
-	],
-	"Jebediah Kerman Fan Klub":[
-		"Loading Screen Manager",
-		"Real KSC in KSP",
-		"North Kerbin Dynamics"
-	],
 	"Jet Sounds Continued":[
 		"Jet Sounds Continued"
 	],
 	"Jettison":[
 		"Jettison"
 	],
-	"Jettison Fuel":[
-		"Jettison"
-	],
 	"JoolBiomes":[
-		"JoolBiomes"
-	],
-	"Jool DIRECT":[
 		"JoolBiomes"
 	],
 	"Joolian Discovery":[
 		"Joolian Discovery"
 	],
-	"JoolOrbitalis":[
-		"JoolBiomes"
-	],
-	"Jimbodiah's Simple RSS patch":[
-		"Simple RSS Patch"
-	],
-	"JSC Monopropellant Decoupler":[
-		"Animated Decouplers"
-	],
 	"JSI Advanced Transparent Pods":[
 		"JSI Advanced Transparent Pods"
-	],
-	"JSIPartUtilities":[
-		"B9PartSwitch",
-		"SmartStage"
-	],
-	"Json Kerman":[
-		"Before Kerbin",
-		"Kustom Kerbals"
-	],
-	"GregroxMun's Jupitery Jool Recolor for Kopernicus":[
-		"Probe Control Room Recontrolled"
-	],
-	"GregroxMun's Jupitery Jool Recolor for TextureReplacer":[
-		"Cetera's Suits for TextureReplacerReplaced"
-	],
-	"JW Patches":[
-		"AB Launchers"
 	],
 	"JX2Antenna":[
 		"JX2Antenna"
@@ -2003,73 +986,14 @@
 	"K2 Command Pod":[
 		"K2 Command Pod"
 	],
-	"K2 Command Pod Continued":[
-		"Take Command Continued",
-		"Part Commander Continued"
-	],
-	"K6M8 Inline Cockpit":[
-		"Aviation Cockpits"
-	],
 	"KA-330 Inflatable Space Hotel":[
 		"KA-330 Inflatable Space Hotel"
-	],
-	"KabinKraziness":[
-		"Kerbin Rings"
 	],
 	"Kaboom!":[
 		"Kaboom!"
 	],
-	"No Astronauts Need Apply":[
-		"Contracts Window +"
-	],
-	"KAL9000":[
-		"Arkas",
-		"Kronkus",
-		"KScale2",
-		"Ktolemy",
-		"KerbCam",
-		"KeyNode",
-		"KeepFit",
-		"KSPDev",
-		"Kaboom!",
-		"FASA",
-		"Knes",
-		"KS3P"
-	],
-	"Kalculator":[
-		"Kerbulator"
-	],
-	"Kerbin's Age of Pioneers":[
-		"Kerbin-Side Continued"
-	],
-	"Kappa Ray":[
-		"KScale2",
-		"Ktolemy",
-		"KerbCam",
-		"Vapor Vent",
-		"CapCom",
-		"KSPCasher",
-		"Crew R&R",
-		"ION RCS",
-		"FASA RCS",
-		"Hangar",
-		"Kerbal NRAP",
-		"KeepFit",
-		"Kaboom!",
-		"Kerbalism",
-		"Bacon Labs",
-		"Tantares",
-		"Impact!",
-		"Spectra"
-	],
 	"The Kaptain's Log":[
 		"The Kaptain's Log"
-	],
-	"Karbonite":[
-		"KerboKatz"
-	],
-	"Karibou Expedition Rover":[
-		"Editor Extensions Redux"
 	],
 	"Kartographer":[
 		"Kartographer"
